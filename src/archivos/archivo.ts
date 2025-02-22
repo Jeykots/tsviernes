@@ -220,3 +220,4 @@ let ingreso: productos = [
   },
 ];
 
+//  Entrada de ventas
